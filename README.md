@@ -5,4 +5,5 @@ Link to Repeated Animal Parade: https://youtu.be/LD_28w7C3gA \
 Link to Drawing Octagon with a Mouse: https://youtu.be/IFAyp8QHWo0 \
 Link to Monkey catching Banana: https://youtu.be/6QLVnDueKWk \
 Link to Variables in drawing Shapes: https://youtu.be/RKJKtpAqkpY \
+Link to Conditional loop in Soccer ball minigame: https://youtu.be/4LXBbxhdjew \
 Email: tan002@ucsd.edu
