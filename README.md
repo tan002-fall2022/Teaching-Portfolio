@@ -6,4 +6,5 @@ Link to Drawing Octagon with a Mouse: https://youtu.be/IFAyp8QHWo0 \
 Link to Monkey catching Banana: https://youtu.be/6QLVnDueKWk \
 Link to Variables in drawing Shapes: https://youtu.be/RKJKtpAqkpY \
 Link to Conditional loop in Soccer ball minigame: https://youtu.be/4LXBbxhdjew \
+Link to If blocks in Dart game: https://youtu.be/qb93-bUCeMA \
 Email: tan002@ucsd.edu
