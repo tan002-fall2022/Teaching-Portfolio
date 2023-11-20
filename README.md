@@ -7,4 +7,5 @@ Link to Monkey catching Banana: https://youtu.be/6QLVnDueKWk \
 Link to Variables in drawing Shapes: https://youtu.be/RKJKtpAqkpY \
 Link to Conditional loop in Soccer ball minigame: https://youtu.be/4LXBbxhdjew \
 Link to If blocks in Dart game: https://youtu.be/qb93-bUCeMA \
+Link to Penguin - Nested if else block: https://youtu.be/SbXBj4ziotg \
 Email: tan002@ucsd.edu
